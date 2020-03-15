@@ -32,13 +32,13 @@ links: footer
 big_footer_signup_form: false
 
 # Configuration for footer heading. (optional)
-heading: Name of agency
+heading: Sergio Zygmunt
 
 # Configuration for agency logo(s) (shown side by side).
 # If the logo is external add external: true
 logos:
-  - src: https://18f.gsa.gov/assets/img/logos/18f-logo.svg
-    alt: 18F
+  - src: https://sergiozygmunt.com/images/szn.svg?crc=3958330229
+    alt: Sergio Zygmunt
     external: true
 
 # Configuration for footer contact links
@@ -65,7 +65,7 @@ contact:
   heading: Agency contact center
 # Configuration for contact links for email, phone, etc...
   contact_links:
-    - text: (800) CALL-GOVT
-      href: tel:1-800-555-5555
-    - text: info@agency.gov
-      href: mailto:info@agency.gov
+    - text: (844) 567-2294
+      href: tel:1-844-567-2294
+    - text: info@sergiozygmunt.com
+      href: mailto:info@sergiozygmunt.com
