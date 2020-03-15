@@ -7,11 +7,11 @@ layout: home
 hero:
   image: /assets/uswds/img/hero.png
   callout:
-    alt: "Hero callout:"
-    text: Call attention to a current priority
+    alt: "Goal:"
+    text: To make being a VITA Volunteer Easier
   button:
     href: /callout/
-    text: This is a call to all my
+    text: Get resources
   link:
     text: Link to more about that priority
     href: /link/
