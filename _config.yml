@@ -37,7 +37,7 @@ description: This is the site description.
 #   team:
 #     output: true
 
-theme: uswds-jekyll
+remote_theme: 18F/uswds-jekyll
 
 # Compress Sass
 sass:
