@@ -21,7 +21,7 @@ type: extended
 # Configuration for site header logo
 # If the logo is external add external: true
 logo:
-  src: https://sergiozygmunt.com/images/szn.svg?crc=3958330229
+  src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/logo/sergio-zygmunt-logo-bw.svg
   alt: Sergio Zygmunt
   external: true
 
