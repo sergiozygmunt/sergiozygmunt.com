@@ -12,8 +12,8 @@
 #   links: primary
 #
 primary:
-  - text: Documentation
-    href: /docs/
+  - text: Projects
+    href: /prohects/
   - text: Navigation section
     links:
       - text: Demo link A
@@ -35,14 +35,14 @@ primary:
     external: true
 
 secondary:
-  - text: Documentation
-    href: /docs/
+  - text: Projects
+    href: /projects/
   - text: Theme
     href: /theme/
 
 docs:
-  - text: Sidenav Documentation
-    href: /docs/
+  - text: Sidenav Projects
+    href: /projects/
   - text: Sidenav Navigation section
     links:
       - text: Demo link A
@@ -58,8 +58,8 @@ docs:
     external: true
 
 footer:
-  - text: Documentation
-    href: /docs/
+  - text: Projects
+    href: /projects/
   - text: Demo link
     href: /demo/
   - text: External link
