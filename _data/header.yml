@@ -21,8 +21,8 @@ type: extended
 # Configuration for site header logo
 # If the logo is external add external: true
 logo:
-  src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/vita/VITA-unofficial-logo-bw.svg
-  alt: Unofficial VITA Resources Logo
+  src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/logo/sergio-zygmunt-logo.svg
+  alt: Sergio Zygmunt
   external: true
 
 # this is a key into _data/navigation.yml
