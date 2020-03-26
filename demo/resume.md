@@ -53,7 +53,7 @@ Business administration, management, Project management (Agile and traditional W
 
 ## Certifications
 + Cisco Certified Network Administrator (CCNA)
-+ Microsoft Azure Administrator Associate
++ Microsoft Azure Administrator Associate - ((cert)[https://s.psdsuc.com/bme/t{: .usa-external_link}/(Acclaim)[https://www.youracclaim.com/badges/fce61749-7853-4fbc-9443-52ac562431f4]{: .usa-external_link})
 + Bloomberg Market Concepts, May 2018
 + Sophos Certified Sales Consultant, 2017
 
