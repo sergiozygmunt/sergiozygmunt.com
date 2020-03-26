@@ -5,9 +5,7 @@ permalink: /experience/
 
 layout: post
 ---
-
-##PowerSerg Data Systems Inc - Carmel, NY
-*President and Founder - November 2016 – Present*
+## PowerSerg Data Systems Inc - Carmel, NY <br><sup>President and Founder - November 2016 – Present</sup>
 + Leads sales and support teams to provide high quality information technology service to local organizations and businesses. 
 + Advances product development team to design and deliver and support internally designed software to customers.
 + Ensures compliance with government and private regulation for data security and business management.
@@ -19,8 +17,7 @@ ___
 + Created and administered development environments to demonstrate new and novel partner solutions that integrate with Kodak Alaris products.
 + Provided worldwide tier 3 support to end customers for product design-related issues.
 ___
-## **Cisco Systems Inc** - Chicago, IL
-### Network Support Engineer (Internship) - September 2019 – December 2019
+## Cisco Systems Inc - Chicago, IL <br><sup>Network Support Engineer (Internship) - September 2019 – December 2019</sup>
 + Provided direct support to customers for product and API-related issues.
 + Physically and logically recreated customer environments to identify and resolve issues.
 + Documented and reported product issues and coordinated with development teams to reach a resolution.
