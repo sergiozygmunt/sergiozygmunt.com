@@ -21,7 +21,7 @@ graphics:
     title: PowerSerg Tock Deployment
     description: Forked open source software to create a time and attendance system.
   - image:
-      src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/tock-tt.png
+      src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/tock-textbased.png
       alt: ''
     title: Project Time Reporting System
     description: Forked open source software to create a time and attendance system.
