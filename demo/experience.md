@@ -21,19 +21,16 @@ layout: post
 + Provided direct support to customers for product and API-related issues.
 + Physically and logically recreated customer environments to identify and resolve issues.
 + Documented and reported product issues and coordinated with development teams to reach a resolution.
-___
-## **PowerSerg Data Systems Inc**, Wilmington, DE - July 2017 – August 2018
-### Information Security Specialist
+
+## Alpha Technologies USA Inc - Wilmington, DE <br><sup>Information Security Specialist - July 2017 – August 2018</sup>
 +	Completed internal security audits, leading to the discovery and mitigation of a major security breach. 
 + Led teams in mitigation of security flaws and implementation of security projects. 
 + Designed, implemented, and supported new enterprise systems including a complete migration to Office 365 and a local area network complete topology redesign as well as an on-premises to AWS migration of applications.
 
-## **TPA Computer Corporation**, Carmel, NY - June 2016 – June 2017
-### Hardware and Networking Specialist
+## TPA Computer Corporation - Carmel, NY <br><sup>Hardware and Networking Specialist - June 2016 – June 2017</sup>
 + Charged with designing, implementing, testing, and securing computer systems and networks, including Windows Server and Client administration.
 + Implemented and supported systems and applications within HIPAA and other privacy-oriented regulations.
 
-## **Kent Public Library**, Kent, NY - January 2014 – June 2017
-### Technology Program Administrator
+## Kent Public Library - Kent, NY <br><sup>Technology Program Administrator - January 2014 – June 2017</sup>
 + Developed community programs for technology assistance and learning.
 + Administered weekly program at a local library to assist community members with any technology questions they may have.
