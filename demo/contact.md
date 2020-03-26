@@ -8,8 +8,7 @@ layout: page
 ---
 
 ## How to reach me
-Sergio Zygmunt
-
+Sergio Zygmunt<br>
 New York, United States of America
 [sergiozygmunt@powerserglabs.com](mailto:sergiozygmunt@powerserglabs.com)
 
