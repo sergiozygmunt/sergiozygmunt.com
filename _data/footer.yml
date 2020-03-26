@@ -46,26 +46,24 @@ contact:
 # Configuration for social media links
 # Comment out links you don't want to use (RSS is an example)
   social_links:
-    - text: Facebook
-      href: https://facebook.com
-      external: true
-      type: facebook
+    #- text: Facebook
+    #  href: https://facebook.com
+    #  external: true
+    #  type: facebook
     - text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/sergiozygmunt
       external: true
       type: twitter
     - text: YouTube
-      href: https://youtube.com
+      href: https://www.youtube.com/sergiozygmunt
       external: true
       type: youtube
   # - text: RSS Feed
   #   href: https://usa.gov/
   #   external: true
   #   type: rss
-  heading: Agency contact center
+  heading: <nbsp>
 # Configuration for contact links for email, phone, etc...
   contact_links:
-    - text: (844) 567-2294
-      href: tel:1-844-567-2294
-    - text: info@sergiozygmunt.com
-      href: mailto:info@sergiozygmunt.com
+    - text: sergiozygmunt@powerserglabs.com
+      href: mailto:sergiozygmunt@powerserglabs.com
