@@ -3,7 +3,7 @@ title: Experience
 description: This is a documentation page.
 permalink: /experience/
 
-layout: left
+layout: page
 ---
 
 [Full resume]](#){: .usa-button .usa-button-big }
