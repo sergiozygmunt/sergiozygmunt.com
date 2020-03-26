@@ -28,8 +28,8 @@ Business administration, management, Project management (Agile and traditional W
 
 ### Kodak Alaris Inc - Rochester, NY <br><sup>Service Analyst - May 2019 – Present</sup>
 + Supported the commercialization of new products and determined service contract offerings.
-+ Worked with development teams to consult on the environment and other considerations of customer environments.
 + Developed internal software tools and procedures for use in support of IOT products that directly interact with product APIs.
++ Worked with development teams to provide consultation for customer environments.
 + Created and administered development environments to demonstrate new and novel partner solutions that integrate with Kodak Alaris products.
 + Provided worldwide tier 3 support to end customers for product design-related issues.
 
