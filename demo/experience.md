@@ -3,10 +3,8 @@ title: Experience
 description: This is a documentation page.
 permalink: /experience/
 
-layout: page
+layout: post
 ---
-
-[Full resume]](#){: .usa-button .usa-button-big }
 
 PowerSerg Data Systems Inc - Carmel, NY
 *President and Founder - November 2016 – Present*
