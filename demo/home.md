@@ -16,10 +16,10 @@ hero:
 
 graphics:
   - image:
-      src: /assets/uswds/img/circle-124.png
+      src: /assets/uswds/img/tock.png
       alt: ''
-    title: Graphic headings can vary.
-    description: Graphic headings can be used a few [different ways](javascript:void(0);), depending on what your landing page is for. Highlight your values, specific program areas, or results.
+    title: PowerSerg Tock Deployment
+    description: Forked open source software to create a time and attendance system.
   - image:
       src: /assets/uswds/img/circle-124.png
       alt: ''
