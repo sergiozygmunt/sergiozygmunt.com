@@ -8,8 +8,9 @@ layout: post
 
 [Full resume]](#){: .usa-button .usa-button-big }
 
-## PowerSerg Data Systems Inc<br><sup>President and Founder</sup>
-## November 2016 – Present - Carmel, NY 
+## PowerSerg Data Systems Inc
+_President and Founder_
+_November 2016 – Present - Carmel, NY_
 + Leads sales and support teams to provide high quality information technology service to local organizations and businesses. 
 + Advances product development team to design and deliver and support internally designed software to customers.
 + Ensures compliance with government and private regulation for data security and business management.
