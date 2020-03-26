@@ -6,35 +6,41 @@ permalink: /experience/
 layout: post
 ---
 
-## this is the experience page
+[Full resume]](#){: .usa-button .usa-button-big }
 
-A PHP program which checks the current user's public IP address and compares it to a list of known IP addresses/hostnames and reports to the user which network they care connected to. It's useful becuase it lets people know if they are indeed connected to VPN or not. [Docs](https://s.psdsuc.com/ldtej).
+## **PowerSerg Data Systems Inc**, Carmel, NY - November 2016 – Present
+### President and Founder
++ Leads sales and support teams to provide high quality information technology service to local organizations and businesses. 
++ Advances product development team to design and deliver and support internally designed software to customers.
++ Ensures compliance with government and private regulation for data security and business management.
 
-## US TSA Boarding Pass Scanner Sign in and Attendance Program (2016 - currently being used by robotics team)
+## **Kodak Alaris Inc**, Rochester, NY - May 2019 – Present
+### Service Analyst
++ Supported the commercialization of new products and determined service contract offerings.
++ Worked with development teams to consult on the environment and other considerations of customer environments.
++ Developed internal software tools and procedures for use in support of IOT products that directly interact with product APIs.
++ Created and administered development environments to demonstrate new and novel partner solutions that integrate with Kodak Alaris products.
++ Provided worldwide tier 3 support to end customers for product design-related issues.
 
-I re-programmed a TSA boarding pass scanner (DESKO PENTA) via its SDK to allow for the logging of sign in and sign outs via 2D barcode scanning. I did this project to help my [robotics team](https://s.psdsuc.com/jf5ud) keep track of members' contribution hours.
+## **Alpha Technologies USA Inc**, Chicago, IL - September 2019 – December 2019
+### Network Support Engineer (Internship)
++ Provided direct support to customers for product and API-related issues.
++ Physically and logically recreated customer environments to identify and resolve issues.
++ Documented and reported product issues and coordinated with development teams to reach a resolution.
 
-The SDK portion of the code is closed-source at the request of the manufacturer. The rest is available in a PDF file
-[Sample code and full documentation](https://s.psdsuc.com/mrjks)
+## **PowerSerg Data Systems Inc**, Wilmington, DE - July 2017 – August 2018
+### Information Security Specialist
++	Completed internal security audits, leading to the discovery and mitigation of a major security breach. 
++ Led teams in mitigation of security flaws and implementation of security projects. 
++ Designed, implemented, and supported new enterprise systems including a complete migration to Office 365 and a local area network complete topology redesign as well as an on-premises to AWS migration of applications.
 
-## Yearbook Superlatives and Biography collection system (2015)
-A web application that I’ve developed for use by Carmel High School Students to place their votes for our school’s senior superlatives. This application also allows students to input their senior quotes and other biographical information (future plans, nicknames, etc.). Students log in with their school network user name and password and enter their biographies which is associated to their directory object.
-[PDF of documentation and a portion of the code](https://s.psdsuc.com/xj/z9).
+## **TPA Computer Corporation**, Carmel, NY - June 2016 – June 2017
+### Hardware and Networking Specialist
++ Charged with designing, implementing, testing, and securing computer systems and networks, including Windows Server and Client administration.
++ Implemented and supported systems and applications within HIPAA and other privacy-oriented regulations.
 
-## Community Technology Program
 
-I designed and currently ran a free community program which provides local community members with a number of technology resources via in-person sessions and Online training.
-
-## AssetAware (2015)
-
-I initially developed AssetAware to help me inventory my belongings for insurance purposes. It allows for the entering of information such as serial numbers, model numbers, value, purchase date, etc. I further expanded the application to allow small businesses to manage their assets within an Office365 tenant rather than spend thousands of dollars on competing software. I copyrighted AssetAware in 2016 and plan on releasing the source code as a low-cost product for small businesses to manage their fixed assets.
-
-[Learn more via PDF documentation](https://s.psdsuc.com/uyz/-)
-
-## County Fair Management System (2014 - present)
-A web interface used by the Grounds Crew for receiving and updating the status of grounds service calls (move tables requests, lower tent walls requests, etc.) for the Putnam County 4-H Fair. Call takers sit in a designated area and receive calls from Fair Volunteers who were previously provided the GroundsDirect phone number. They then enter the requests into GroundsDirect which are received by the Grounds Crew. Once the request is resolved, Grounds Crew enters the status of the request into GroundsDirect, and the result is written to the database.
-[PDF Documentation](https://s.psdsuc.com/tvb3g)
-
-## Putnam County Historical Markers Project (2012 - 2017)
-A project involving interactive and dynamic web pages for pre-existing historical cast iron marker signs throughout my home county. I am working with the local county government to place QR code tags on both the signs and on posters at popular points of interest.
-[PDF Documentation](https://s.psdsuc.com/ticwr)
+## **Kent Public Library**, Kent, NY - January 2014 – June 2017
+### Technology Program Administrator
++ Developed community programs for technology assistance and learning.
++ Administered weekly program at a local library to assist community members with any technology questions they may have.
