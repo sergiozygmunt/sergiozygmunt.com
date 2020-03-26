@@ -43,6 +43,6 @@ remote_theme: 18F/uswds-jekyll
 sass:
   style: compressed
 
-  styles:
+styles:
   - /assets/uswds/css/uswds.min.css
   - /assets/uswds-overrides.css
