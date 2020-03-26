@@ -1,0 +1,6 @@
+<div class="usa-layout-docs-sidenav sidenav {% if page.sticky_sidenav %}usa-sticky-sidenav{% endif %}">
+  <h3>{{ site.experience_title | default: "Experience" }}</h3>
+  {% for experience in site.data.experience %}
+    {% include {{ experience.layout | default: 'left' | append: ".html" }} item=experience %}
+  {% endfor %}
+</div>
