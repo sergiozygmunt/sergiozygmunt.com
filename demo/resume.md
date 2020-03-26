@@ -3,7 +3,7 @@ title: Resume
 description: Sergio Zygmunt resume.
 permalink: /resume/
 
-layout: post
+layout: page
 ---
 
 ## Objective
