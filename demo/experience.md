@@ -6,21 +6,21 @@ permalink: /experience/
 layout: post
 ---
 
-PowerSerg Data Systems Inc - Carmel, NY
+##PowerSerg Data Systems Inc - Carmel, NY
 *President and Founder - November 2016 – Present*
 + Leads sales and support teams to provide high quality information technology service to local organizations and businesses. 
 + Advances product development team to design and deliver and support internally designed software to customers.
 + Ensures compliance with government and private regulation for data security and business management.
 
-## Kodak Alaris Inc<sub>Rochester, NY</sub><br><sup>Service Analyst - May 2019 – Present</sup>
+## Kodak Alaris Inc - Rochester, NY <br><sup>Service Analyst - May 2019 – Present</sup>
 + Supported the commercialization of new products and determined service contract offerings.
 + Worked with development teams to consult on the environment and other considerations of customer environments.
 + Developed internal software tools and procedures for use in support of IOT products that directly interact with product APIs.
 + Created and administered development environments to demonstrate new and novel partner solutions that integrate with Kodak Alaris products.
 + Provided worldwide tier 3 support to end customers for product design-related issues.
 
-## **Alpha Technologies USA Inc**, Chicago, IL - September 2019 – December 2019
-### Network Support Engineer (Internship)
+## **Cisco Systems Inc** - Chicago, IL
+### Network Support Engineer (Internship) - September 2019 – December 2019
 + Provided direct support to customers for product and API-related issues.
 + Physically and logically recreated customer environments to identify and resolve issues.
 + Documented and reported product issues and coordinated with development teams to reach a resolution.
