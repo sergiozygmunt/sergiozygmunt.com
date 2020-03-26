@@ -13,7 +13,7 @@
 #
 primary:
   - text: Projects
-    href: /projects/
+    href: /prohects/
   - text: Navigation section
     links:
       - text: Demo link A
