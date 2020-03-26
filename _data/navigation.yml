@@ -14,20 +14,24 @@
 primary:
   - text: Projects
     href: /projects/
-  - text: Navigation section
+  - text: Resume
     links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
-      - text: Demo link D
-        href: /two/a/
-      - text: Demo link E
-        href: /two/b/
-      - text: Demo link F
-        href: /two/c/
+      - text: Full Resume
+        href: /resume/
+      - text: Work Experience
+        href: /resume/#work-experience
+      - text: Certifications
+        href: /resume/#certifications
+      - text: Technical Skills
+        href: /resume/#technical-skills
+      - text: Non-technical Skills
+        href: /resume/#non-technical-skills
+      - text: Education
+        href: /resume/#education
+      - text: Awards
+        href: /resume/#awards
+      - text: Groups
+      href: /resume/#groups
   - text: Referenced section
     links: footer
   - text: External link
