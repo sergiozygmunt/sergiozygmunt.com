@@ -21,10 +21,10 @@ graphics:
     title: PowerSerg Tock Deployment
     description: Forked open source software to create a time and attendance system.
   - image:
-      src: /assets/uswds/img/circle-124.png
+      src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/tock.png
       alt: ''
-    title: Stick to 6 or fewer words.
-    description: Keep body text to about 30. They can be shorter, but try to be somewhat balanced across all four. It creates a clean appearance with good spacing.
+    title: Project Time Reporting System
+    description: Forked open source software to create a time and attendance system.
   - image:
       src: /assets/uswds/img/circle-124.png
       alt: ''
