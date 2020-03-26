@@ -8,14 +8,13 @@ layout: post
 
 [Full resume]](#){: .usa-button .usa-button-big }
 
-## **PowerSerg Data Systems Inc<br><sup>President and Founder</sup>
+## PowerSerg Data Systems Inc<br><sup>President and Founder</sup>
 ## November 2016 – Present - Carmel, NY 
 + Leads sales and support teams to provide high quality information technology service to local organizations and businesses. 
 + Advances product development team to design and deliver and support internally designed software to customers.
 + Ensures compliance with government and private regulation for data security and business management.
 
-## **Kodak Alaris Inc**, Rochester, NY - May 2019 – Present
-### Service Analyst
+## Kodak Alaris Inc<sup>Rochester, NY</sup><br><sup>Service Analyst</sup> <sup>May 2019 – Present</sup>
 + Supported the commercialization of new products and determined service contract offerings.
 + Worked with development teams to consult on the environment and other considerations of customer environments.
 + Developed internal software tools and procedures for use in support of IOT products that directly interact with product APIs.
