@@ -18,7 +18,6 @@ hero:
   content: Support the callout with some short explanatory text. You don't need more than a couple of sentences.
 
 graphics:
-tagline: Projects, skills, & experience - it's all here and here's some highlights
   - image:
       src: /assets/uswds/img/circle-124.png
       alt: ''
