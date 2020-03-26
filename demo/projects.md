@@ -3,7 +3,7 @@ title: Projects
 description: This is a documentation page.
 permalink: /projects/
 
-layout: docs
+layout: page
 
 ---
 
