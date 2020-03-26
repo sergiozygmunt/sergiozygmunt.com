@@ -32,17 +32,15 @@ primary:
         href: /resume/#awards
       - text: Groups
         href: /resume/#groups
-  - text: Referenced section
-    links: footer
-  - text: External link
-    href: https://18f.gsa.gov
-    external: true
+  - text: Contact me
+    href: /contact/
+    external: false
 
 secondary:
   - text: Projects
     href: /projects/
-  - text: Theme
-    href: /theme/
+  - text: Get in touch
+    href: /contact/
 
 docs:
   - text: Sidenav Projects
@@ -69,6 +67,9 @@ footer:
   - text: Github
     href: https://github.com/sergiozygmunt
     external: true
+  - text: Get in touch
+    href: /contact/
+    external: false
 # Uncomment the items below and comment the items above in the `footer` list
 # to use footer link columns in the 'big' footer style.
   # - text: Documentation
