@@ -31,7 +31,7 @@ primary:
       - text: Awards
         href: /resume/#awards
       - text: Groups
-      href: /resume/#groups
+        href: /resume/#groups
   - text: Referenced section
     links: footer
   - text: External link
