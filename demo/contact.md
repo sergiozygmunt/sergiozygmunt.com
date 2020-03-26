@@ -14,7 +14,7 @@ New York, United States of America
 [sergiozygmunt@powerserglabs.com](mailto:sergiozygmunt@powerserglabs.com)
 
 ## Github
-[sergiozygmunt]](https://s.psdsuc.com/twnay){: .usa-external_link}
+My Github is [sergiozygmunt](https://s.psdsuc.com/twnay){: .usa-external_link}
 
 ## Social
 My Twitter is [@sergiozygmunt](https://s.psdsuc.com/4/3gd){: .usa-external_link}
