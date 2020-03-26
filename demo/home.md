@@ -18,7 +18,7 @@ graphics:
   - image:
       src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/httpscompliance_124.png
       alt: 'Padlock icon for HTTPSCompliance'
-    title: HTTPSCompliance Tool
+    title: HTTPS Compliance Tool
     description: Created application that checks numerous server-side settings of web properties to see if they are deployed following best practices.
   - image:
       src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/tock-textbased_124.png
