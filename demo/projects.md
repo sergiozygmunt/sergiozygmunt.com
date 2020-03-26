@@ -3,13 +3,8 @@ title: Projects
 description: This is a documentation page.
 permalink: /projects/
 
-layout: post
-sidenav: projects
-subnav:
-  - text: Section one
-    href: '#section-one'
-  - text: Section two
-    href: '#section-two'
+layout: docs
+
 ---
 
 ## AmIOnVPN.com
