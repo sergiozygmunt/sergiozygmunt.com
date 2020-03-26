@@ -52,7 +52,7 @@ Business administration, management, Project management (Agile and traditional W
 + Administered weekly program at a local library to assist community members with any technology questions they may have.
 
 ## Certifications
-+ Cisco Certified Network Administrator (CCNA) - January 2020 (cert)[https://s.psdsuc.com/u5w89]{: .usa-external_link}/(Acclaim)[https://s.psdsuc.com/i7spv]{: .usa-external_link}
++ Cisco Certified Network Administrator (CCNA) - January 2020 (cert)[https://s.psdsuc.com/u5w89]{: .usa-external_link}  (Acclaim)[https://s.psdsuc.com/i7spv]{: .usa-external_link}
 + Microsoft Azure Administrator Associate - March 2020 ((cert)[https://s.psdsuc.com/bme/t]{: .usa-external_link}/(Acclaim)[https://s.psdsuc.com/cbjkm]{: .usa-external_link})
 + Bloomberg Market Concepts - May 2018 ((cert)[https://s.psdsuc.com/6h0a4]{: .usa-external_link})
 + Sophos Certified Sales Consultant - 2017 ((cert)[https://s.psdsuc.com/7tf54]{: .usa-external_link})
