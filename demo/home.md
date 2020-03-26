@@ -17,24 +17,24 @@ hero:
 graphics:
   - image:
       src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/httpscompliance_124.png
-      alt: ''
+      alt: 'Padlock icon for HTTPSCompliance'
     title: HTTPSCompliance Tool
     description: Created application that checks numerous server-side settings of web properties to see if they are deployed following best practices.
   - image:
       src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/tock-textbased_124.png
-      alt: ''
+      alt: 'Tock'
     title: Project Time Reporting System
-    description: Forked [open source software](https://github.com/18f/tock) to create a time and attendance system.
+    description: Forked [open source software](https://github.com/18f/tock) to create a time and attendance system. [Learn more about my deployment](#tock-time-tracking-system-fork-of-open-source-project)
   - image:
-      src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/tock-textbased_124.png
-      alt: ''
+      src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/vpn_124.png
+      alt: 'VPN?'
     title: VPN Status Check Tool
     description: Created a quick and easy way to check if your machine is connected to a particular VPN server with full tunneling.
   - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Could also have 2 or 6.
-    description: In addition to your goal, find out your users’ goals. [What do they want to know](https://18f.gsa.gov/) or do that supports your mission? Use these headings to show those.
+      src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/www_124.png
+      alt: 'www.'
+    title: Jekyll-based website (this one!)
+    description: This website, based upon open source software, is deployed using Jekyll.
 ---
 ## Section heading
 
