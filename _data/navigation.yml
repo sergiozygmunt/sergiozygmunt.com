@@ -64,10 +64,10 @@ docs:
 footer:
   - text: Projects
     href: /projects/
-  - text: Demo link
-    href: /demo/
-  - text: External link
-    href: https://18f.gsa.gov
+  - text: Resume
+    href: /resume/
+  - text: Github
+    href: https://github.com/sergiozygmunt
     external: true
 # Uncomment the items below and comment the items above in the `footer` list
 # to use footer link columns in the 'big' footer style.
