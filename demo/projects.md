@@ -7,9 +7,17 @@ layout: page
 
 ---
 
+## HTTPSCompliance
+Utilized Cloudflare and other HTTP APIs to programmatically determine if web properties are compliant with security standards for TLS Upgrade, TLS versions, 
+HSTS headers, and HSTS preloading.
+
 ## AmIOnVPN.com
 
-A PHP program which checks the current user's public IP address and compares it to a list of known IP addresses/hostnames and reports to the user which network they care connected to. It's useful becuase it lets people know if they are indeed connected to VPN or not. [Docs](https://s.psdsuc.com/ldtej){: .usa-external_link}.
+A PHP program which checks the current user's public IP address and compares it to a list of known IP addresses/hostnames and reports to the user which network they care connected to. It's useful because it lets people know if they are indeed connected to VPN or not. [Docs](https://s.psdsuc.com/ldtej){: .usa-external_link}.
+
+## Tock Time Tracking System (fork of open source project) 
+Utilized the US Government’s [(General Services Administration, Technology Transformation Service)](https://18f.gov){: .usa-external_link} open source project Tock to create an internal time and attendance tracking system that allow for employees and contractors to enter time spent on specific customer projects which ultimately allows for direct and streamlined charge of customers for time spent. Customized the product to support internal business rules as well as the authentication system used at PowerSerg.
+
 
 ## US TSA Boarding Pass Scanner Sign in and Attendance Program (2016 - currently being used by robotics team)
 
