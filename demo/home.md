@@ -24,7 +24,7 @@ graphics:
       src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/tock-textbased_124.png
       alt: 'Tock'
     title: Project Time Reporting System
-    description: Forked [open source software](https://github.com/18f/tock) to create a time and attendance system. [Learn more about my deployment](#tock-time-tracking-system-fork-of-open-source-project)
+    description: Forked [open source software](https://github.com/18f/tock) to create a time and attendance system. [Learn more about my deployment](/projects/#tock-time-tracking-system-fork-of-open-source-project)
   - image:
       src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/vpn_124.png
       alt: 'VPN?'
