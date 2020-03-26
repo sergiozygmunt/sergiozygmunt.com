@@ -4,12 +4,6 @@ description: This is a documentation page.
 permalink: /experience/
 
 layout: post
-sidenav: docs
-subnav:
-  - text: Section one
-    href: '#section-one'
-  - text: Section two
-    href: '#section-two'
 ---
 
 ## this is the experience page
