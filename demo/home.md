@@ -12,10 +12,7 @@ hero:
   button:
     href: /projects/
     text: Projects
-  link:
-    text: Link to more about that priority
-    href: /link/
-  content: Support the callout with some short explanatory text. You don't need more than a couple of sentences.
+  content: Projects, skills, & experience - it's all here - here's some highlights
 
 graphics:
   - image:
