@@ -17,10 +17,8 @@ hero:
     href: /link/
   content: Support the callout with some short explanatory text. You don't need more than a couple of sentences.
 
-tagline: Projects, skills, & experience - it's all here
-intro: |
-  As I work on projects and grow professionally, I will try to highlight as much details and information I can here.
-  
+tagline: Projects, skills, & experience - it's all here and here's some highlights
+
 graphics:
   - image:
       src: /assets/uswds/img/circle-124.png
