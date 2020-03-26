@@ -36,9 +36,8 @@ graphics:
     title: Jekyll-based website (this one!)
     description: This website, based upon open source software, is deployed using Jekyll.
 ---
-## Section heading
+## Get in touch!
 
-Everything up to this point [should help people](javascript:void(0);) understand your agency or project: who you are, your goal or mission, and how you approach it. Use this section to encourage them to act. Describe why they should get in touch here, and use an active verb on the button below. “Get in touch,” “Learn more,” and so on.
+If you have any questions, comments, concerns, or anything else, feel free to get in touch.
 {: .usa-font-lead }
-
-[Call to action](#){: .usa-button .usa-button-big }
+[Contact me](/contact/){: .usa-button .usa-button-big }
