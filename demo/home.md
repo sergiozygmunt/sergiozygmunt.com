@@ -26,10 +26,10 @@ graphics:
     title: Project Time Reporting System
     description: Forked [open source software](https://github.com/18f/tock) to create a time and attendance system.
   - image:
-      src: /assets/uswds/img/circle-124.png
+      src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/tock-textbased_124.png
       alt: ''
-    title: Never highlight anything without a goal.
-    description: For anything you want to highlight here, understand what your users know now, and what activity or impression you want from them after they see it.
+    title: VPN Status Check Tool
+    description: Created a quick and easy way to check if your machine is connected to a particular VPN server with full tunneling.
   - image:
       src: /assets/uswds/img/circle-124.png
       alt: ''
