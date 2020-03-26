@@ -16,15 +16,15 @@ hero:
 
 graphics:
   - image:
-      src: /assets/uswds/img/tock.png
+      src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/httpscompliance_124.png
       alt: ''
-    title: PowerSerg Tock Deployment
-    description: Forked open source software to create a time and attendance system.
+    title: [HTTPSCompliance Tool](/projects/#httpscompliance)
+    description: Created application that checks numerous server-side settings of web properties to see if they are deployed following best practices.
   - image:
-      src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/tock-textbased.png
+      src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/tock-textbased_124.png
       alt: ''
     title: Project Time Reporting System
-    description: Forked open source software to create a time and attendance system.
+    description: Forked [open source software](https://github.com/18f/tock) to create a time and attendance system.
   - image:
       src: /assets/uswds/img/circle-124.png
       alt: ''
