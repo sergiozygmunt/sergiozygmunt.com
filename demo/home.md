@@ -5,7 +5,7 @@ permalink: /
 layout: home
 
 hero:
-  image: /assets/uswds/img/hero.png
+  image: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/hero.png
   callout:
     alt: "Hello"
     text: I'm Sergio
