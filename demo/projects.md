@@ -35,7 +35,7 @@ A web application that I’ve developed for use by Carmel High School Students t
 
 ## Community Technology Program
 
-I designed and ran a free community program which provides local community members with a number of technology resources via in-person sessions and online training.
+I designed and ran a free community program to provide local community members with a number of technology resources via in-person sessions and online training. I then created a system of succession for other personnel to continue this project when I had to move to continue my educational and professional career.
 
 ## AssetAware (2015)
 
