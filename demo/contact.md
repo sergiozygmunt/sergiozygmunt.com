@@ -19,10 +19,8 @@ My Github is [sergiozygmunt](https://s.psdsuc.com/twnay){: .usa-external_link}
 My Twitter is [@sergiozygmunt](https://s.psdsuc.com/4/3gd){: .usa-external_link}
 
 ## Encryption
-[Here's](https://s.psdsuc.com/48ilv){: .usa-external_link} my PGP public key. You don't need it unless you want to send me encrypted emails or files.
+[Here's](https://s.psdsuc.com/48ilv){: .usa-external_link} my PGP public key. You won't need it unless you want to send me encrypted emails or files.
 
-Also, check me out on [Keybase](https://s.psdsuc.com/zolja){: .usa-external_link} to get verified links to other sites such as Github or Twitter.
-
- 
+Also, check out my [Keybase](https://s.psdsuc.com/zolja){: .usa-external_link} to get verified links to other sites such as Github or Twitter.
 
 Need to send me a Fax? Email or call me for the fax number. Fax numbers are generated as needed because they're not used very often.
