@@ -9,7 +9,7 @@ layout: page
 
 ## How to reach me
 Sergio Zygmunt<br>
-New York, United States of America
+New York, United States of America<br>
 [sergiozygmunt@powerserglabs.com](mailto:sergiozygmunt@powerserglabs.com)
 
 ## Github
