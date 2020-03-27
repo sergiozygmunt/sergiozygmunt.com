@@ -14,7 +14,7 @@ Rochester Institute of Technology, Rochester, NY - May 2021
 B.S. Computing and Information Technologies
 
 ## Technical Skills
-Networking, RESTful APIs, Python, Open Source Software, systems hardening, Microsoft Public Cloud services (Office 365 and Azure), web application firewalls, Windows Server and Client, Jekyll, Git, Github, Google G Suite administration, Computer hardware, SQL, Duo Security MFA, Linux, asset management, Sophos UTM/XG administration, Microsoft Office, Tableau, Microsoft PowerBI, document scanner hardware and capture software
+Networking, RESTful APIs, Python, Open Source Software, systems hardening, Microsoft Public Cloud services (Office 365 and Azure), web application firewalls, Windows Server and Client, Jekyll, Git, GitHub, Google G Suite administration, Computer hardware, SQL, Duo Security MFA, Linux, asset management, Sophos UTM/XG administration, Microsoft Office, Tableau, Microsoft PowerBI, document scanner hardware and capture software
 
 ## Non-Technical Skills
 Business administration, management, project management (Agile and traditional Waterfall) contract negotiation and preparation, HIPAA compliance, project management, inside and outside sales, Bloomberg terminal
