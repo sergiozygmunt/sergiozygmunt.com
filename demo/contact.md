@@ -25,4 +25,4 @@ Also, check me out on [Keybase](https://s.psdsuc.com/zolja){: .usa-external_link
 
  
 
-Need to send me a Fax? Email or call me for the fax number. Fax numbers are generated as needed because they're not use very often.
+Need to send me a Fax? Email or call me for the fax number. Fax numbers are generated as needed because they're not used very often.
