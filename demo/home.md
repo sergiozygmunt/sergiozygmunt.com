@@ -12,7 +12,7 @@ hero:
   button:
     href: /projects/
     text: Projects
-  content: I mess with things until they break and (hopefully) fix them <br> Projects, skills, & experience - it's all here - here's some highlights
+  content: I mess with things until they break and (hopefully) fix them. <br> Projects, skills, & experience - it's all here - here's some highlights
 
 graphics:
   - image:
