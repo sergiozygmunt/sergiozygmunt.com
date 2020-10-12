@@ -7,17 +7,17 @@ layout: page
 ---
 
 ## Objective
-Seeking position in the field of Information Technology administration and systems operations. 
+Seeking position in the field of Information Technology management, administration, systems operations, and engineering.
 
 ## Education
 Rochester Institute of Technology, Rochester, NY - May 2021
 B.S. Computing and Information Technologies
 
 ## Technical Skills
-Networking, RESTful APIs, Python, Open Source Software, systems hardening, Microsoft Public Cloud services (Office 365 and Azure), web application firewalls, Windows Server and Client, Jekyll, Git, GitHub, Google G Suite administration, Computer hardware, SQL, Duo Security MFA, Linux, asset management, Sophos UTM/XG administration, Microsoft Office, Tableau, Microsoft PowerBI, document scanner hardware and capture software
+Networking, RESTful APIs, Python, Open Source Software, Systems hardening, Microsoft Public Cloud Services (Office 365 and Azure), Web Application Firewalls, Windows Server and Client, Jekyll, Git, GitHub, Google G Suite administration, Computer hardware, SQL, Duo Security MFA, Linux, asset management, Sophos UTM/XG administration, Tableau, Microsoft PowerBI, Networking RF analysis and diagnostics, Document scanner hardware and capture software
 
 ## Non-Technical Skills
-Business administration, management, project management (Agile and traditional Waterfall) contract negotiation and preparation, HIPAA compliance, project management, inside and outside sales, Bloomberg terminal
+Business administration, management, project management (Agile and traditional Waterfall,) contract negotiation and preparation, HIPAA compliance, communication, inside and outside sales, Microsoft Office, Bloomberg terminal
 
 ## Work Experience
 
@@ -31,11 +31,11 @@ Business administration, management, project management (Agile and traditional W
 + Developed internal software tools and procedures for use in support of IOT products that directly interact with product APIs.
 + Worked with development teams to provide consultation for customer environments.
 + Created and administered development environments to demonstrate new and novel partner solutions that integrate with Kodak Alaris products.
-+ Provided worldwide tier 3 support to end customers for product design-related issues.
++ Provided worldwide tier 3 support to customers for product design-related issues.
 
 ### Cisco Systems Inc - Chicago, IL <br><sup>Network Support Engineer (Internship) - September 2019 – December 2019</sup>
 + Provided direct support to customers for product and API-related issues.
-+ Physically and logically recreated customer environments to identify and resolve issues.
++ Physically and logically recreated customer environments to identify and resolve issues, including low-level Wi-Fi RF analysis
 + Documented and reported product issues and coordinated with development teams to reach a resolution.
 
 ### Alpha Technologies USA Inc - Wilmington, DE <br><sup>Information Security Specialist - July 2017 – August 2018</sup>
@@ -54,6 +54,7 @@ Business administration, management, project management (Agile and traditional W
 ## Certifications
 + Cisco Certified Network Administrator (CCNA) - January 2020 ([Certificate](https://s.psdsuc.com/u5w89){: .usa-external_link}[Acclaim](https://s.psdsuc.com/i7spv){: .usa-external_link}
 + Microsoft Azure Administrator Associate - March 2020 ([Certificate](https://s.psdsuc.com/bme/t){: .usa-external_link}[Acclaim](https://s.psdsuc.com/cbjkm){: .usa-external_link})
++ Kodak Microfilm Document Archive Writers & Archival Film Processors - July 2019
 + Bloomberg Market Concepts - May 2018 ([Certificate](https://s.psdsuc.com/6h0a4){: .usa-external_link})
 + Sophos Certified Sales Consultant - June 2017 ([Certificate](https://s.psdsuc.com/7tf54){: .usa-external_link})
 
@@ -61,4 +62,4 @@ Business administration, management, project management (Agile and traditional W
 American Statistical Association DataFest Competition 2018 – Best Visualization Award (April 2018)
 
 ## Groups
-IEEE, RIT Blockchain Technology Club (Executive Board member), FIRST Robotics Competition (Volunteering/Mentoring), RIT Information Technology Security Club
+Institute of Electrical and Electronics Engineers (IEEE,) RIT Blockchain Technology Club (President), FIRST Robotics Competition (Volunteering/Mentoring), RIT Information Technology Security Club
