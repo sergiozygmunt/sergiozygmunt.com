@@ -10,7 +10,7 @@ layout: page
 ## How to reach me
 Sergio Zygmunt<br>
 New York, United States of America<br>
-[sergiozygmunt@sergiozygmunt.com](mailto:sergio@sergiozygmunt.com)
+[sergio@sergiozygmunt.com](mailto:sergio@sergiozygmunt.com)
 
 ## GitHub
 My GitHub is [sergiozygmunt](https://s.psdsuc.com/twnay){: .usa-external_link}
