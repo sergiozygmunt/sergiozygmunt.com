@@ -65,5 +65,5 @@ contact:
   heading: <nbsp>
 # Configuration for contact links for email, phone, etc...
   contact_links:
-    - text: sergiozygmunt@powerserglabs.com
-      href: mailto:sergiozygmunt@powerserglabs.com
+    - text: sergio@sergiozygmunt.com
+      href: mailto:sergio@sergiozygmunt.com
