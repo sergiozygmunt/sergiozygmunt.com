@@ -6,9 +6,6 @@ permalink: /resume/
 layout: page
 ---
 
-## Objective
-Seeking position in the field of Information Technology management, administration, systems operations, and engineering.
-
 ## Education
 Rochester Institute of Technology, Rochester, NY - May 2021
 B.S. Computing and Information Technologies
@@ -21,12 +18,14 @@ Business administration, management, project management (Agile and traditional W
 
 ## Work Experience
 
+### Verkada Inc - San Mateo, CA <br><sup>Solutions Engineer - March 2021 – Present</sup>
+
 ### PowerSerg Data Systems Inc - Carmel, NY <br><sup>President and Founder - November 2016 – Present</sup>
 + Leads sales and support teams to provide high-quality information technology service to local organizations and businesses.
 + Advances product development team to design and deliver and support internally designed software to customers.
 + Ensures compliance with government and private regulation for data security and business management.
 
-### Kodak Alaris Inc - Rochester, NY <br><sup>Service Analyst - May 2019 – Present</sup>
+### Kodak Alaris Inc - Rochester, NY <br><sup>Service Analyst - May 2019 – February 2021</sup>
 + Supported the commercialization of new products and determined service contract offerings.
 + Developed internal software tools and procedures for use in support of IOT products that directly interact with product APIs.
 + Worked with development teams to provide consultation for customer environments.
