@@ -11,7 +11,7 @@ Rochester Institute of Technology, Rochester, NY - May 2021
 B.S. Computing and Information Technologies
 
 ## Technical Skills
-Networking, RESTful APIs, Python, Open Source Software, Systems hardening, Microsoft Public Cloud Services (Office 365 and Azure), Web Application Firewalls, Windows Server and Client, Jekyll, Git, GitHub, Google G Suite administration, Computer hardware, SQL, Duo Security MFA, Linux, asset management, Sophos UTM/XG administration, Tableau, Microsoft PowerBI, Networking RF analysis and diagnostics, Document scanner hardware and capture software
+Networking, RESTful APIs, Python, Open Source Software, Systems hardening, Microsoft Public Cloud Services (Office 365 and Azure), Web Application Firewalls, Windows Server and Client, Jekyll, Git, GitHub, Google Workplace (G Suite) administration, SQL, Duo Security MFA, Linux, asset management, Sophos UTM/XG administration, Tableau, Microsoft PowerBI, Networking RF analysis and diagnostics, Document scanner hardware and capture software
 
 ## Non-Technical Skills
 Business administration, management, project management (Agile and traditional Waterfall,) contract negotiation and preparation, HIPAA compliance, communication, inside and outside sales, Microsoft Office, Bloomberg terminal
@@ -51,14 +51,19 @@ Business administration, management, project management (Agile and traditional W
 + Administered weekly program at a local library to assist community members with any technology questions they may have.
 
 ## Certifications
-+ Cisco Certified Network Administrator (CCNA) - January 2020 ([Certificate](https://s.psdsuc.com/u5w89){: .usa-external_link}[Acclaim](https://s.psdsuc.com/i7spv){: .usa-external_link}
-+ Microsoft Azure Administrator Associate - March 2020 ([Certificate](https://s.psdsuc.com/bme/t){: .usa-external_link}[Acclaim](https://s.psdsuc.com/cbjkm){: .usa-external_link})
++ Cisco Certified Network Administrator (CCNA) - January 2020 ([Certificate](https://s.psdsuc.com/u5w89){: .usa-external_link}[Credly](https://s.psdsuc.com/i7spv){: .usa-external_link}
++ Microsoft Azure Administrator Associate - March 2020 ([Certificate](https://s.psdsuc.com/bme/t){: .usa-external_link}[Credly](https://s.psdsuc.com/cbjkm){: .usa-external_link})
++ Verkada Certified Engineer - March 2021
 + Kodak Microfilm Document Archive Writers & Archival Film Processors - July 2019
 + Bloomberg Market Concepts - May 2018 ([Certificate](https://s.psdsuc.com/6h0a4){: .usa-external_link})
 + Sophos Certified Sales Consultant - June 2017 ([Certificate](https://s.psdsuc.com/7tf54){: .usa-external_link})
 
 ## Awards
 American Statistical Association DataFest Competition 2018 – Best Visualization Award (April 2018)
+
+## Volunteering
++ Volunteer Income Tax Assistance (VITA) - March 2020 - Present - Prepare federal and state income tax returns for low and moderate income taxpayers as an IRS-certified Advanced Tax Law tax preparer.
++ FRC Control System Advisor and FRC Robot Inspector - January 2017 - Present
 
 ## Groups
 Institute of Electrical and Electronics Engineers (IEEE,) RIT Blockchain Technology Club (President), FIRST Robotics Competition (Volunteering/Mentoring), RIT Information Technology Security Club
