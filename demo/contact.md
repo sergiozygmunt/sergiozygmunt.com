@@ -24,4 +24,7 @@ My Twitter is [@sergiozygmunt](https://s.psdsuc.com/4/3gd){: .usa-external_link}
 Also, check out my [Keybase](https://s.psdsuc.com/zolja){: .usa-external_link} to get verified links to other sites such as GitHub or Twitter.
 
 ## Fax
-Need to send me a Fax? Email or call me for the fax number. Fax numbers are generated as needed because they're not used very often.
+Need to send me a Fax? Contact me to get a fax number.
+
+## Free and Open Source Software
+Some of the software I use in my projects (including this website) come from free and open source (FOSS) projects. I link back to the source project and license (when applicable,) and generally reply to issues opened on my repositories.
