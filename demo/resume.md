@@ -18,9 +18,7 @@ Business administration, management, project management (Agile and traditional W
 
 ## Work Experience
 
-### Verkada Inc - San Mateo, CA 
-<br><sup>Product Specialist - August 2021 – Present</sup>
-<br><sup>Solutions Engineer - March 2021 – July 2021</sup>
+### Verkada Inc - San Mateo, CA <br><sup>Product Specialist - August 2021 – Present</sup><br><sup>Solutions Engineer - March 2021 – July 2021</sup>
 
 ### PowerSerg Data Systems Inc - Carmel, NY <br><sup>President and Founder - November 2016 – Present</sup>
 + Leads sales and support teams to provide high-quality information technology service to local organizations and businesses.
