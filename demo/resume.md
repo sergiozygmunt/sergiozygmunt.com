@@ -47,9 +47,9 @@ Business administration, management, project management (Agile and traditional W
 + Administered weekly program at a local library to assist community members with any technology questions they may have.
 
 ## Certifications
-+ CompTIA Network+ - November 2021 ([Certificate](https://s.psdsuc.com/di4ky){: .usa-external_link}[Credly](https://s.psdsuc.com/f5nb3){: .usa-external_link}
-+ Okta Certified Professional - July 2021 ([Certificate](https://s.psdsuc.com/5sf0m){: .usa-external_link}[Credly](https://s.psdsuc.com/dqtzn){: .usa-external_link}
-+ Cisco Certified Network Administrator (CCNA) - January 2020 ([Certificate](https://s.psdsuc.com/u5w89){: .usa-external_link}[Credly](https://s.psdsuc.com/i7spv){: .usa-external_link}
++ CompTIA Network+ - November 2021 ([Certificate](https://s.psdsuc.com/di4ky){: .usa-external_link}[Credly](https://s.psdsuc.com/f5nb3){: .usa-external_link})
++ Okta Certified Professional - July 2021 ([Certificate](https://s.psdsuc.com/5sf0m){: .usa-external_link}[Credly](https://s.psdsuc.com/dqtzn){: .usa-external_link})
++ Cisco Certified Network Administrator (CCNA) - January 2020 ([Certificate](https://s.psdsuc.com/u5w89){: .usa-external_link}[Credly](https://s.psdsuc.com/i7spv){: .usa-external_link})
 + Microsoft Azure Administrator Associate - March 2020 ([Certificate](https://s.psdsuc.com/bme/t){: .usa-external_link}[Credly](https://s.psdsuc.com/cbjkm){: .usa-external_link})
 + Verkada Certified Engineer - March 2021
 + Kodak Microfilm Document Archive Writers & Archival Film Processors - July 2019
