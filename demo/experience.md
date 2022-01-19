@@ -1,7 +1,7 @@
 ---
-title: Resume
-description: Sergio Zygmunt resume.
-permalink: /resume/
+title: Experience
+description: Sergio Zygmunt experience and resume.
+permalink: /experience/
 
 layout: page
 ---
