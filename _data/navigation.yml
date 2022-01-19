@@ -14,24 +14,24 @@
 primary:
   - text: Projects
     href: /projects/
-  - text: Resume
+  - text: Experience
     links:
       - text: Full Resume
-        href: /resume/
+        href: /experience/
       - text: Work Experience
         href: /resume/#work-experience
       - text: Certifications
-        href: /resume/#certifications
+        href: /experience/#certifications
       - text: Technical Skills
-        href: /resume/#technical-skills
+        href: /experience/#technical-skills
       - text: Non-technical Skills
-        href: /resume/#non-technical-skills
+        href: /experience/#non-technical-skills
       - text: Education
-        href: /resume/#education
+        href: /experience/#education
       - text: Awards
-        href: /resume/#awards
+        href: /experience/#awards
       - text: Groups
-        href: /resume/#groups
+        href: /experience/#groups
   - text: Contact me
     href: /contact/
     external: false
@@ -62,8 +62,8 @@ docs:
 footer:
   - text: Projects
     href: /projects/
-  - text: Resume
-    href: /resume/
+  - text: Experience
+    href: /experience/
   - text: GitHub
     href: https://github.com/sergiozygmunt
     external: true
