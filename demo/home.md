@@ -5,7 +5,7 @@ permalink: /
 layout: home
 
 hero:
-  image: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/hero.png
+  image: https://sergiozygmunt.com/cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/bc4e8749-d08d-41cd-51fd-a035b1c91a00/public
   callout:
     alt: "Hello"
     text: I'm Sergio
@@ -16,22 +16,22 @@ hero:
 
 graphics:
   - image:
-      src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/httpscompliance_124.png
+      src: https://sergiozygmunt.com/cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/dd18dbe1-6e75-4a39-ff61-1da0eb22f200/public
       alt: 'Padlock icon for HTTPSCompliance'
     title: HTTPS Compliance Tool
     description: Created application that checks numerous server-side settings of web properties to see if they are deployed following best practices.
   - image:
-      src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/tock-textbased_124.png
+      src: https://sergiozygmunt.com/cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/9967e8a1-8646-46e9-0933-cdb04285a700/public
       alt: 'Tock'
     title: Project Time Reporting System
     description: Forked [open source software](https://github.com/18f/tock) to create a time and attendance system. [Learn more about my deployment](/projects/#tock-time-tracking-system-fork-of-open-source-project)
   - image:
-      src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/vpn_124.png
+      src: https://sergiozygmunt.com/cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/d12f5680-0f5c-450e-2b77-af8efa29d600/public
       alt: 'VPN?'
     title: VPN Status Check Tool
     description: Created a quick and easy way to check if your machine is connected to a particular VPN server with full tunneling.
   - image:
-      src: https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/www_124.png
+      src: https://sergiozygmunt.com/cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/98d33a31-0a4b-4a27-56b7-d9a7d6078700/public
       alt: 'www.'
     title: Jekyll-based website (this one!)
     description: This website, based upon open source software, is deployed using Jekyll.
