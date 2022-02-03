@@ -18,7 +18,7 @@ HSTS headers, and HSTS preloading.
 
 ## AmIOnVPN.com
 
-A PHP program that checks the current user’s public IP address and compares it to a list of known IP addresses/hostnames, then reports to the user which network they are connected to. It’s useful because it lets people know if they are indeed connected to VPN or not. [Documentation](https://s.psdsuc.com/ldtej){: .usa-external_link}.
+A program that checks the current user’s public IP address and compares it to a list of known IP addresses/hostnames, then reports to the user which network they are connected to. It’s useful because it lets people know if they are indeed connected to VPN or not. [Documentation](https://s.psdsuc.com/ldtej){: .usa-external_link}.
 ![AmIOnVPN Screenshot](https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/amionvpn-screenshot.png)
 
 ## Tock Time Tracking System (fork of open source project) 
@@ -26,9 +26,9 @@ Utilized the US Government’s [(General Services Administration, Technology Tra
 ![PowerSerg Tock Screenshot](https://01110000011100110111001001100111.com/sergiozygmunt-ip-assets/siteimages/tock-screenshot.png)
 
 
-## US TSA Boarding Pass Scanner Sign in and Attendance Program (2016 - currently being used by robotics team)
+## US TSA Boarding Pass Scanner Sign in and Attendance Program (2016)
 
-I re-programmed a TSA boarding pass scanner (DESKO PENTA) via its SDK to allow for the logging of sign in and sign outs via 2D barcode scanning. I did this project to help my [robotics team](https://s.psdsuc.com/jf5ud){: .usa-external_link} keep track of members' contribution hours.
+I re-programmed a TSA boarding pass scanner (DESKO PENTA) via its C++ SDK to allow for the logging of sign in and sign outs via 2D barcode scanning. I did this project to help my [robotics team](https://s.psdsuc.com/jf5ud){: .usa-external_link} keep track of members' contribution hours. This project was in use throughout the period that the team still had in person gatherings.
 
 The SDK portion of the code is closed-source at the request of the manufacturer. The rest is available in a PDF file
 [Sample code and full documentation](https://s.psdsuc.com/mrjks){: .usa-external_link}
@@ -39,11 +39,11 @@ A web application that I’ve developed for use by Carmel High School Students t
 
 ## Community Technology Program
 
-I designed and ran a free community program to provide local community members with a number of technology resources via in-person sessions and online training. I then created a system of succession for other personnel to continue this project when I had to move to continue my educational and professional career.
+I designed and ran a free community program to provide local community members with a number of technology resources via in-person sessions and online training. I then created a system of succession for other personnel to continue this project.
 
 ## AssetAware (2015)
 
-I initially developed AssetAware to help me inventory my belongings for insurance purposes. It allows for the entering of information such as serial numbers, model numbers, value, purchase date, etc. I further expanded the application to allow small businesses to manage their assets within an Office365 tenant rather than spend thousands of dollars on competing software. I copyrighted AssetAware in 2016 and plan on releasing the source code as a low-cost product for small businesses to manage their fixed assets.
+I initially developed AssetAware to help me inventory my belongings for insurance purposes. It allows for the entering of information such as serial numbers, model numbers, value, purchase date, etc. I further expanded the application to allow small businesses to manage their assets within an Office 365 tenant rather than spend a lot of money on competing software.
 
 [Learn more via PDF documentation](https://s.psdsuc.com/uyz/-){: .usa-external_link}
 
@@ -52,5 +52,5 @@ A web interface used by the Grounds Crew for receiving and updating the status o
 [PDF Documentation](https://s.psdsuc.com/tvb3g){: .usa-external_link}
 
 ## Putnam County Historical Markers Project (2012 - 2017)
-A project involving interactive and dynamic web pages for pre-existing historical cast iron marker signs throughout my home county. I am working with the local county government to place QR code tags on both the signs and on posters at popular points of interest.
+A project involving interactive and dynamic web pages for pre-existing historical cast iron marker signs throughout my home county. I planned to work with the local county government to place QR code tags on both the signs and on posters at popular points of interest.
 [PDF Documentation](https://s.psdsuc.com/ticwr){: .usa-external_link}
