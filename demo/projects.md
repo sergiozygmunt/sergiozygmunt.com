@@ -28,7 +28,7 @@ Utilized the US Government’s [(General Services Administration, Technology Tra
 
 ## US TSA Boarding Pass Scanner Sign in and Attendance Program (2016)
 
-I re-programmed a TSA boarding pass scanner (DESKO PENTA) via its C++ SDK to allow for the logging of sign in and sign outs via 2D barcode scanning. I did this project to help my [robotics team](https://s.psdsuc.com/jf5ud){: .usa-external_link} keep track of members' contribution hours. This project was in use throughout the period that the team still had in person gatherings.
+I re-programmed a TSA boarding pass scanner (DESKO PENTA) via its C++ SDK to allow for the logging of sign in and sign outs via 2D barcode scanning. I did this project to help my robotics team keep track of members' contribution hours. This project was in use throughout the period that the team still had in person gatherings.
 
 The SDK portion of the code is closed-source at the request of the manufacturer. The rest is available in a PDF file
 [Sample code and full documentation](https://s.psdsuc.com/mrjks){: .usa-external_link}
