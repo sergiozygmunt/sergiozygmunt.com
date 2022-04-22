@@ -49,14 +49,14 @@ Business administration, management, project management (Agile and traditional W
 + Administered weekly program at a local library to assist community members with any technology questions they may have.
 
 ## Certifications
-+ CompTIA Network+ - November 2021 ([Certificate](https://s.psdsuc.com/di4ky){: .usa-external_link}[Credly](https://s.psdsuc.com/f5nb3){: .usa-external_link})
-+ Okta Certified Professional - July 2021 ([Certificate](https://s.psdsuc.com/5sf0m){: .usa-external_link}[Credly](https://s.psdsuc.com/dqtzn){: .usa-external_link})
-+ Cisco Certified Network Administrator (CCNA) - January 2020 ([Certificate](https://s.psdsuc.com/u5w89){: .usa-external_link}[Credly](https://s.psdsuc.com/i7spv){: .usa-external_link})
-+ Microsoft Azure Administrator Associate - March 2020 ([Certificate](https://s.psdsuc.com/bme/t){: .usa-external_link}[Credly](https://s.psdsuc.com/cbjkm){: .usa-external_link})
++ CompTIA Network+ - November 2021 ([Credly](https://www.credly.com/earner/earned/badge/29a0fcc5-76ff-4814-be95-53428176ee4b){: .usa-external_link})
++ Okta Certified Professional - July 2021 ([Credly](https://www.credly.com/badges/ce6f0c89-000d-4ce4-93c1-00b4ee71ad52){: .usa-external_link})
++ Cisco Certified Network Administrator (CCNA) - January 2020 [Credly](https://www.credly.com/badges/87b17e72-8254-440b-a66a-f7c978e43da2){: .usa-external_link})
++ Microsoft Azure Administrator Associate - March 2020 ([Credly](https://www.credly.com/badges/760f3411-aa3e-4452-83b9-6f251da320ce){: .usa-external_link})
 + Verkada Certified Engineer - March 2021
 + Kodak Microfilm Document Archive Writers & Archival Film Processors - July 2019
-+ Bloomberg Market Concepts - May 2018 ([Certificate](https://s.psdsuc.com/6h0a4){: .usa-external_link})
-+ Sophos Certified Sales Consultant - June 2017 ([Certificate](https://s.psdsuc.com/7tf54){: .usa-external_link})
++ Bloomberg Market Concepts - May 2018
++ Sophos Certified Sales Consultant - June 2017
 
 ## Education
 Rochester Institute of Technology, Rochester, NY

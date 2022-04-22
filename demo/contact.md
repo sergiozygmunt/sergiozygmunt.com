@@ -12,15 +12,15 @@ The best way to get in touch with me is to email me.
 [sergio@sergiozygmunt.com](mailto:sergio@sergiozygmunt.com)
 
 ## GitHub
-My GitHub is [sergiozygmunt](https://s.psdsuc.com/twnay){: .usa-external_link}
+My GitHub is [sergiozygmunt](https://github.com/sergiozygmunt){: .usa-external_link}
 
 ## Social
-My Twitter is [@sergiozygmunt](https://s.psdsuc.com/4/3gd){: .usa-external_link}
+My Linkedin is [Sergio Zygmunt](https://linkedin.com/in/sergiozygmunt){: .usa-external_link}
 
 ## Encryption
-[Here's](https://s.psdsuc.com/48ilv){: .usa-external_link} my PGP public key. You won't need it unless you want to send me encrypted emails or files.
+[Here's](https://keybase.io/sergiozygmunt){: .usa-external_link} my PGP public key. You won't need it unless you want to send me encrypted emails or files.
 
-Also, check out my [Keybase](https://s.psdsuc.com/zolja){: .usa-external_link} to get verified links to other sites such as GitHub or Twitter.
+Also, check out my [Keybase](https://keybase.io/sergiozygmunt){: .usa-external_link} to get verified links to other sites such as GitHub or Twitter.
 
 ## Free and Open Source Software
 Some of the software I use in my projects (including this website) come from free and open source (FOSS) projects. I link back to the source project and license (when applicable,) and generally reply to issues opened on my repositories.
