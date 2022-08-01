@@ -12,24 +12,14 @@
 #   links: primary
 #
 primary:
-  - text: Projects
-    href: /projects/
   - text: Experience
     links:
-      - text: Full Resume
-        href: /experience/
       - text: Work Experience
         href: /resume/#work-experience
       - text: Certifications
         href: /experience/#certifications
-      - text: Technical Skills
-        href: /experience/#technical-skills
-      - text: Non-technical Skills
-        href: /experience/#non-technical-skills
-      - text: Education
-        href: /experience/#education
-      - text: Awards
-        href: /experience/#awards
+      - text: Skills
+        href: /experience/#skills
       - text: Groups
         href: /experience/#groups
   - text: Contact me
@@ -37,14 +27,10 @@ primary:
     external: false
 
 secondary:
-  - text: Projects
-    href: /projects/
   - text: Get in touch
     href: /contact/
 
 docs:
-  - text: Sidenav Projects
-    href: /projects/
   - text: Sidenav Navigation section
     links:
       - text: Demo link A
@@ -60,8 +46,6 @@ docs:
     external: true
 
 footer:
-  - text: Projects
-    href: /projects/
   - text: Experience
     href: /experience/
   - text: GitHub

@@ -10,31 +10,10 @@ hero:
     alt: "Hello"
     text: I'm Sergio
   button:
-    href: /projects/
-    text: Projects
-  content: I mess with things until they break and (hopefully) fix them. <br> Projects, skills, & experience - it's all here - here's some highlights
+    href: /experience/
+    text: About Me
+  content: I work with companies and people to solve problems that matter to them.
 
-graphics:
-  - image:
-      src: https://sergiozygmunt.com/cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/dd18dbe1-6e75-4a39-ff61-1da0eb22f200/public
-      alt: 'Padlock icon for HTTPSCompliance'
-    title: HTTPS Compliance Tool
-    description: Created application that checks numerous server-side settings of web properties to see if they are deployed following best practices.
-  - image:
-      src: https://sergiozygmunt.com/cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/9967e8a1-8646-46e9-0933-cdb04285a700/public
-      alt: 'Tock'
-    title: Project Time Reporting System
-    description: Forked [open source software](https://github.com/18f/tock) to create a time and attendance system. [Learn more about my deployment](/projects/#tock-time-tracking-system-fork-of-open-source-project)
-  - image:
-      src: https://sergiozygmunt.com/cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/d12f5680-0f5c-450e-2b77-af8efa29d600/public
-      alt: 'VPN?'
-    title: VPN Status Check Tool
-    description: Created a quick and easy way to check if your machine is connected to a particular VPN server with full tunneling.
-  - image:
-      src: https://sergiozygmunt.com/cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/98d33a31-0a4b-4a27-56b7-d9a7d6078700/public
-      alt: 'www.'
-    title: Jekyll-based website (this one!)
-    description: This website, based upon open source software, is deployed using Jekyll.
 ---
 ## Get in touch!
 
