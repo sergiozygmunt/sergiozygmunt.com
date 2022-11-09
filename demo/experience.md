@@ -8,6 +8,8 @@ layout: page
 
 ## Work Experience
 
+### Public Data Library Inc - San Mateo, CA <br><sup>Executive Director and Board Member - October 2022 – Present</sup>
+
 ### Cloudflare Inc - San Francisco, CA <br><sup>Solutions Engineer - January 2022 – Present</sup>
 
 ### Verkada Inc - San Mateo, CA <br><sup>Product Specialist - August 2021 – January 2022</sup><br><sup>Solutions Engineer - March 2021 – July 2021</sup>
@@ -28,6 +30,7 @@ layout: page
 Business administration, management, project management (Agile and traditional Waterfall,) contract negotiation and preparation, HIPAA compliance, communication, inside and outside sales, Microsoft Office, Bloomberg terminal, Networking, RESTful APIs, Python, Systems hardening, Microsoft Public Cloud Services (Office 365 and Azure), Web Application Firewalls, Windows Server and Client, Jekyll, Git, GitHub, Google Workplace (G Suite) administration, SQL, Tableau, Networking RF analysis and diagnostics, Document scanner hardware and capture software
 
 ## Certifications
++ AWS Certified Solutions Architect – Associate - November 2022 ([Credly](https://www.credly.com/badges/e83208b3-caaa-4267-9a57-39e27a04efe9/public_url){: .usa-external_link})
 + CompTIA Network+ - November 2021 ([Credly](https://www.credly.com/earner/earned/badge/29a0fcc5-76ff-4814-be95-53428176ee4b){: .usa-external_link})
 + Okta Certified Professional - July 2021 ([Credly](https://www.credly.com/badges/ce6f0c89-000d-4ce4-93c1-00b4ee71ad52){: .usa-external_link})
 + Cisco Certified Network Administrator (CCNA) - January 2020 [Credly](https://www.credly.com/badges/87b17e72-8254-440b-a66a-f7c978e43da2){: .usa-external_link})
