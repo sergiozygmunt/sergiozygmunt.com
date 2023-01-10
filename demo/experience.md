@@ -31,6 +31,7 @@ Business administration, management, project management (Agile and traditional W
 
 ## Certifications
 + AWS Certified Solutions Architect – Associate - November 2022 ([Credly](https://www.credly.com/badges/e83208b3-caaa-4267-9a57-39e27a04efe9/public_url){: .usa-external_link})
++ Notary Public - State of California - September 2022
 + CompTIA Network+ - November 2021 ([Credly](https://www.credly.com/earner/earned/badge/29a0fcc5-76ff-4814-be95-53428176ee4b){: .usa-external_link})
 + Okta Certified Professional - July 2021 ([Credly](https://www.credly.com/badges/ce6f0c89-000d-4ce4-93c1-00b4ee71ad52){: .usa-external_link})
 + Cisco Certified Network Administrator (CCNA) - January 2020 [Credly](https://www.credly.com/badges/87b17e72-8254-440b-a66a-f7c978e43da2){: .usa-external_link})
