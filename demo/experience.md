@@ -14,7 +14,7 @@ layout: page
 
 ### Verkada Inc - San Mateo, CA <br><sup>Product Specialist - August 2021 – January 2022</sup><br><sup>Solutions Engineer - March 2021 – July 2021</sup>
 
-### PowerSerg Data Systems Inc - Carmel, NY <br><sup>President and Founder - November 2016 – Present</sup>
+### PowerSerg Data Systems Inc - Carmel, NY <br><sup>President and Founder - November 2016 – January 2022</sup>
 
 ### Kodak Alaris Inc - Rochester, NY <br><sup>Service Analyst - May 2019 – February 2021</sup>
 
