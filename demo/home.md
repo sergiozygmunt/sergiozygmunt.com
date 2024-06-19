@@ -5,7 +5,7 @@ permalink: /
 layout: home
 
 hero:
-  image: https://sergiozygmunt.com/cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/bc4e8749-d08d-41cd-51fd-a035b1c91a00/public
+  image: https://rhi.sergiozygmunt.com
   callout:
     alt: "Hello"
     text: I'm Sergio
