@@ -18,10 +18,6 @@ primary:
         href: /resume/#work-experience
       - text: Certifications
         href: /experience/#certifications
-      - text: Skills
-        href: /experience/#skills
-      - text: Groups
-        href: /experience/#groups
   - text: Contact me
     href: /contact/
     external: false
