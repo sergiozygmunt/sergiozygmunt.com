@@ -37,7 +37,7 @@ heading: Sergio Zygmunt
 # Configuration for agency logo(s) (shown side by side).
 # If the logo is external add external: true
 logos:
-  - src: https://icon.sergiozygmunt.com/sergio-zygmunt-logo-bw.svg
+  - src: /cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/a50674a5-6077-4beb-af16-06f42ec0a000/public
     alt: Sergio Zygmunt
     external: true
 
