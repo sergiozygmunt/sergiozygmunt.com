@@ -8,7 +8,9 @@ layout: page
 
 ## Work Experience
 
-### Cloudflare Inc - San Francisco, CA <br><sup>Enterprise Solutions Engineer - October 2024 – Present</sup><br><sup>Solutions Engineer - January 2022 – September 2024</sup>
+### Microsoft Corp - San Francisco, CA <br><sup>Senior Enterprise Solutions Engineer - April 2026 – Present</sup>
+
+### Cloudflare Inc - San Francisco, CA <br><sup>Enterprise Solutions Engineer - October 2024 – April 2026</sup><br><sup>Solutions Engineer - January 2022 – September 2024</sup>
 
 ### Public Data Library Inc - Burlingame, CA <br><sup>Executive Director and Board Member - October 2022 – Present</sup>
 
