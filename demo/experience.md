@@ -29,6 +29,7 @@ layout: page
 ### Kent Public Library - Kent, NY <br><sup>Technology Program Administrator - January 2014 – June 2017</sup>
 
 ## Certifications
++ Microsoft Certified: Cybersecurity Architect Expert - May 2026 ([Microsoft Learn](https://learn.microsoft.com/api/credentials/share/en-us/SergioZygmunt-2767/E6D400C157083DF1?sharingId=CCF294AC30B41A40){: .usa-external_link})
 + Microsoft 365 Certified: Enterprise Administrator Expert - May 2026 ([Microsoft Learn](https://learn.microsoft.com/api/credentials/share/en-us/SergioZygmunt-2767/4F1CADB24C279860?sharingId=CCF294AC30B41A40){: .usa-external_link})
 + Microsoft Identity and Access Administrator Associate - April 2026 ([Microsoft Learn](https://learn.microsoft.com/api/credentials/share/en-us/SergioZygmunt-2767/24E31DCCDBC0B30A?sharingId=CCF294AC30B41A40){: .usa-external_link})
 + Certified Information Systems Security Professional (CISSP) - March 2026 ([Credly](https://www.credly.com/badges/d20cccaf-6a97-489d-8a24-004887ac0297/public_url){: .usa-external_link})
